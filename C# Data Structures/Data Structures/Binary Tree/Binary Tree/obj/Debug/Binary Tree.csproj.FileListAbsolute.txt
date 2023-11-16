@@ -1,0 +1,8 @@
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csproj.AssemblyReference.cache
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\bin\Debug\Binary Tree.exe.config
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\bin\Debug\Binary Tree.exe
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\bin\Debug\Binary Tree.pdb
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\obj\Debug\Binary Tree.exe
+C:\Users\22526481\OneDrive - MMU\Programming\Data Structures\Binary Tree\Binary Tree\obj\Debug\Binary Tree.pdb
